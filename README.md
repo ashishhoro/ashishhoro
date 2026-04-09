@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashishhoro
+- 👋 Hi, I’m @rez
 - 👀 I’m interested in front-end and back-end work
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on app and web designing stuffs
