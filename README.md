@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ashish
-- 👀 I’m interested in front-end and back-end work
-- 🌱 I’m currently learning DSA
+- 👀 I’m interested in full-stack role
 - 💞️ I’m looking to collaborate for nodejs web apps
 - 📫 How to reach me rehzen.harrish.98@gmail.com
 
